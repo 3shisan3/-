@@ -1,0 +1,2 @@
+E:\备份\C++黑白棋游戏\Debug\bw.exe
+E:\备份\C++黑白棋游戏\Debug\bw.pdb
